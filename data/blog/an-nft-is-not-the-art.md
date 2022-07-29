@@ -3,7 +3,7 @@ title: NFTs are not just the art—they're also the certificate of authenticity
 slug: an-nft-is-not-the-art
 date: '2021-03-12'
 tags: ['NFTs', 'Crypto']
-draft: false
+draft: true
 summary: 'Would you buy a car without a title? A house without a deed? NFTs are things with authenticity built-in, making them more than just a digital file.'
 ---
 
