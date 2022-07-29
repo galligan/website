@@ -1,0 +1,44 @@
+{
+  "redirects": [
+    {
+      "source": "/contact",
+      "destination": "/about"
+    },
+    {
+      "source": "/author/mg",
+      "destination": "/about"
+    },
+    {
+      "source": "/welcome-to-my-new-home",
+      "destination": "/"
+    },
+    {
+      "source": "/five-little-life-hacks-that-made-me-just-a-little-happier-and-more-productive-at-home",
+      "destination": "https://mg.medium.com/five-little-life-hacks-to-be-just-a-little-happier-e72647dbf113"
+    },
+    {
+      "source": "/the-right-way-to-ask-users-to-review-your-app",
+      "destination": "https://mg.medium.com/the-right-way-to-ask-users-to-review-your-app-9a32fd604fca"
+    },
+    {
+      "source": "/blast-from-the-past--looking-back-to-early-2012-at-circa-news-1-0-pre-launch",
+      "destination": "https://mg.medium.com/blast-from-the-past-looking-back-to-early-2012-at-circa-news-1-0-pre-launch-e8fe961cbeee"
+    },
+    {
+      "source": "/game-time-notifications--solving-for-last-minute-event-changes",
+      "destination": "https://mg.medium.com/game-time-notifications-solving-for-last-minute-event-changes-d4e08b5bc0bd"
+    },
+    {
+      "source": "/reading-more--better-reading--how-i-finally-fixed-my-news---reading-habits",
+      "destination": "https://mg.medium.com/reading-more-better-reading-how-i-finally-fixed-my-news-reading-habits-32790b679501"
+    },
+    {
+      "source": "/start-a-thread--reducing-chatter-and-distraction-in-slack",
+      "destination": "https://mg.medium.com/several-people-are-typing-using-slack-threads-by-default-to-reduce-distraction-and-chatter-7865918de02b"
+    },
+    {
+      "source": "/there-s-a-chat-for-that--apple-s-biggest-platform-opportunity-yet",
+      "destination": "https://mg.medium.com/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857"
+    }
+  ]
+}

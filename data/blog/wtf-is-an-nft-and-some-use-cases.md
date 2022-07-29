@@ -5,7 +5,7 @@ tags: ['nfts', 'crypto', 'howto', 'ideas']
 summary: Everyone seems to be talking about them right now, but what the hell are they? Let's dig in on what they are, as well as some practical use cases.
 ---
 
-First, the fact that three of the last three posts (here's [one](__GHOST_URL__/membership-nfts/) and [two](__GHOST_URL__/how-i-accidentally-created-and-sold-an-nft/)) on this blog should be a good indicator that there are a lot of exciting things going on with NFTs these days. In both of those posts I referenced some outside links as a primer, but have also found myself explaining to friends as of late what they're all about. So I thought maybe it might be time to just write up my quick perspective on what they are, what they mean for the crypto space, and for the future of the web.
+First, the fact that three of the last three posts (here's [one](./membership-nfts) and [two](./how-i-accidentally-created-and-sold-an-nft)) on this blog should be a good indicator that there are a lot of exciting things going on with NFTs these days. In both of those posts I referenced some outside links as a primer, but have also found myself explaining to friends as of late what they're all about. So I thought maybe it might be time to just write up my quick perspective on what they are, what they mean for the crypto space, and for the future of the web.
 
 Note that this post assumes you've got at least some passing familiarity for what cryptocurrencies are, and a bit about how they operate. If you're not there yet, go check out [Coinbase's article on the subject](https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency).
 
@@ -24,7 +24,8 @@ It used to be that when something got turned into 1's and 0's it could be infini
 Without going into all of the specifics the above innovations mean that despite something existing in a purely digital space one could cryptographically prove that there are no copies.
 
 I came in relatively late to the crypto game in 2017, but though I didn't understand all of it at the time this concept alone blew my mind. Here's a little [tweet storm](https://twitter.com/mg/status/887738534202716160) I sent out back then after brainstorming on the possibilities with a friend:
-![](__GHOST_URL__/content/images/2021/03/2017-nft-tweetstorm-mg@2x.png)
+
+![](/public/static/images/wtf-is-an-nft/2017-nft-tweetstorm-mg@2x.png)
 
 ## How can something digital be truly unique?
 
@@ -35,11 +36,16 @@ Images can be copied easily. I can send a picture to you, and by the time you re
 Turning a photo into an NFT means that you're embuing it with certain properties to help identify its [provenance](https://www.merriam-webster.com/dictionary/provenance) and establishing [immutable](https://en.wikipedia.org/wiki/Immutable_object) proof of its existence and history. This gets back into the idea of something being scarce—you're giving that photo new and special properties to help idenfity it.
 
 So now if that same photo is non-fungible, even though I can make many copies of its pixels, it would be possible to prove what the original is—this precisely is the thing that's new and particularly exciting.
-![](__GHOST_URL__/content/images/2021/03/Starry-Night-Van-Gogh-retouched-medium.jpg)Van Gogh's "Starry Night"
+
+![](/public/static/images/wtf-is-an-nft/Starry-Night-Van-Gogh-retouched-medium.jpeg)Van Gogh's "Starry Night"
+
 To bring this back to the real world, while you can purchase a print, postcard, or mousepad (old school, right?) of Van Gogh's "Starry Night", we all know that there is just one original, which happens to be in the NYC MoMA's permanent collection. The fact that there are copies of the original doesn't make it any less valuable or unappealing, in fact one might argue the opposite.
-![](__GHOST_URL__/content/images/2021/03/The-Furry-Night_4096x4096_Muartive.jpg)Murat Yıldırım's "Furry Night"
+
+![](/public/static/images/wtf-is-an-nft/The-Furry-Night_4096x4096_Muartive.jpeg)Murat Yıldırım's "Furry Night"
+
 So too we have [Murat Yıldırım](https://www.behance.net/muratyildirim)'s "[Furry Night](https://superrare.co/artwork-v2/furry-night-19345)" as seen above. While Van Gogh's medium was paint, Murat's was pixels—what you see has never existed in the physical space. Quite obviously I've posted a copy above, but because he's turned it into an NFT, it's now much more special and scarce—with only "1 of 1" existing as its true original. [Its record](https://etherscan.io/tx/0x9eae69c8f439857842d25f284987404fc97ff53386109291f1defd4ef6eb9931) on the Ethereum blockchain is available for all to see—including its creator, time of creation, current owner, and entire history of its movement throughout the digital world:
-![](__GHOST_URL__/content/images/2021/03/CleanShot-2021-03-02-at-08.45.15@2x.png)
+
+![](/public/static/images/wtf-is-an-nft/CleanShot-2021-03-02-at-08.45.15@2x.png)
 
 ## What the heck does all this mean?
 
@@ -103,32 +109,23 @@ So far I've created and listed:
 
 ### A 1 of 1 video commemorating 3LAU's NFT auction:
 
-[
-
-20210227: 3LAU MAKES HISTORY | Foundation
-
-@MG (Matt Galligan, b. 1984)The Internets, c. 2021Mixed media This moment captures 3LAU’s groundbreaking and record-setting NFT auction of his album Ultravio…
-
-![](https://foundation.app/apple-touch-icon.png)Foundation
-
-![](https://image.mux.com/OMADVJFIbR7At4Lhb00iRQabo0210200y3t75Yp1IjpiOPQ/thumbnail.jpg)
-](https://foundation.app/mg/20210227-3lau-makes-history-1790)
+[Check it out here](https://foundation.app/@mg/foundation/1790)
 
 ### A cheeky set of old school 16x16 favicons with modern themes:
 
 Each favicon is a 1 of 100. [Check out the collection here](https://app.rarible.com/favicons)
-![](__GHOST_URL__/content/images/2021/03/CleanShot-2021-03-03-at-07.32.02@2x.png)
+![](/public/static/images/wtf-is-an-nft/CleanShot-2021-03-03-at-07.32.02@2x.png)
 
 ## What's newly enabled by this stuff?
 
 The fact that these NFTs exist in digital space, with their sale and transfer governed by software, means that they can be embued with some really interesting characteristics. Entirely new things that aren't possible in the "real world" will be enabled here.
 
-1. When minted, **it's possible to set a royalty fee for subsequent transfers **of the token. This is a groundbreaking change because it means that artists and purveyors of other digital goods can continue to reap the rewards of an object after it's left their hands. So while an artist getting off the ground may only sell a piece for a small sum, should they get popular later on, they can still earn a percentage of subsequent sales. e.g. when [a Beeple piece was sold for $6.6M](https://cointelegraph.com/news/beeple-nft-sells-for-record-6-6m-as-bidding-for-everydays-at-christie-s-hits-2-2m), Beeple himself received $660,000 with no additional effort. Incredible.
+1. When minted, **it's possible to set a royalty fee for subsequent transfers** of the token. This is a groundbreaking change because it means that artists and purveyors of other digital goods can continue to reap the rewards of an object after it's left their hands. So while an artist getting off the ground may only sell a piece for a small sum, should they get popular later on, they can still earn a percentage of subsequent sales. e.g. when [a Beeple piece was sold for $6.6M](https://cointelegraph.com/news/beeple-nft-sells-for-record-6-6m-as-bidding-for-everydays-at-christie-s-hits-2-2m), Beeple himself received $660,000 with no additional effort. Incredible.
 2. As underscored above, the mere concept of digital scarcity is extremely new—with countless possibilities that I couldn't even begin to enumerate here. This will open up whole new worlds of functionality and interesting behavior for digital objects.
 3. Someone's wallet address acts as both their personal collection, and verifiable proof of ownership of a given asset or assets. Therefore it's conceivable that your wallet address could be used as a wholly owned and sovereign, decentralized authentication method to identify onesself (so long as the keys are retained…which can certainly be an issue). Simply the existance of a "membership token" in ones wallet would be verifiable proof of their membership, requiring no centralized authority to confirm.
 4. Direct transfer between two parties that otherwise do not need to know or understand anything about each other, while trusting the transaction will still go through. It's impossible to trust an unknown party you may be transacting with on Craigslist, but Ethereum enables transfer without having to trust the other party at all.
 
-> The novelty of this moment is not lost on me: just had my first NFT sale to someone I _don’t know_ whose identity is just an address. Whatever their motivation, I didn’t even have to meet this person to buy the piece and that’s really freaking cool.[https://t.co/Kvs4CDkp4k](https://t.co/Kvs4CDkp4k) > &mdash; Matt Galligan (@mg) [March 3, 2021](https://twitter.com/mg/status/1366916581519990785?ref_src=twsrc%5Etfw)
+> The novelty of this moment is not lost on me: just had my first NFT sale to someone I _don’t know_ whose identity is just an address. Whatever their motivation, I didn’t even have to meet this person to buy the piece and that’s really freaking cool. [https://t.co/Kvs4CDkp4k](https://t.co/Kvs4CDkp4k) Matt Galligan (@mg) [March 3, 2021](https://twitter.com/mg/status/1366916581519990785?ref_src=twsrc%5Etfw)
 
 While I later found out who the buyer for this NFT was, it was incredible to me that I didn't need to or have any idea at the time of sale, yet it went off without a hitch
 
