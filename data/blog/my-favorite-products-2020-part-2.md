@@ -2,6 +2,7 @@
 title: 'My Favorite Products From 2020, Part 2'
 date: '2021-02-04'
 tags: ['reviews', 'electronics', 'gadgets', 'games', 'networking', 'coffee']
+draft: true
 summary: Part two in my series, rounding up all of my favorite products that I discovered in 2020—this time with 100% more lawn care products.
 ---
 

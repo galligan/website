@@ -2,6 +2,7 @@
 title: WTF is an NFT? A (relative) beginner's guide to non-fungible tokens and why they matter
 date: '2021-03-03'
 tags: ['nfts', 'crypto', 'howto', 'ideas']
+draft: true
 summary: Everyone seems to be talking about them right now, but what the hell are they? Let's dig in on what they are, as well as some practical use cases.
 ---
 

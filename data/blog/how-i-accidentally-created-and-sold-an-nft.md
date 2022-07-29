@@ -2,6 +2,7 @@
 title: 'How I accidentally created and sold an NFT for all of $1'
 date: '2021-02-27'
 tags: ['crypto', 'nfts']
+draft: true
 summary: Oops. I didn't mean to, but I accidentally sold an NFT that I created as a test.
 ---
 

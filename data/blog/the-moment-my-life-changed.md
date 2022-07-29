@@ -2,6 +2,7 @@
 title: 'The moment my life changed'
 date: '2013-05-21T00:00:00.000Z'
 tags: ['personal']
+draft: true
 summary: 'My experience with a series of medical challenges, deep introspection, and discovering what it meant to take more risks.'
 ---
 

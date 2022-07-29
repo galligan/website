@@ -2,6 +2,7 @@
 title: Breaking My Phone Addiction, One Sec at a Time
 date: '2021-01-01T12:16:00.000Z'
 tags: ['software & apps', 'reviews', 'productivity']
+draft: true
 summary: As we start a new year, it felt like the perfect time to share a tool that's helped me dramatically curb my phone addiction…
 ---
 

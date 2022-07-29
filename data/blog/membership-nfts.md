@@ -2,6 +2,7 @@
 title: 'Not just for kitties, punks, and top shots: NFTs will change everything we know about subscriptions, membership, licensing'
 date: '2021-02-24'
 tags: ['ideas', 'crypto']
+draft: true
 summary: How mashing up TiVo lifetime memberships, software license USB dongles, and pop tart cats could mean the future of membership and subscriptions.
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 'My Favorite Products From 2020, Part 1'
 date: '2021-01-05'
+draft: true
 tags:
   [
     'reviews',
