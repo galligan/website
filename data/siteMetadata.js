@@ -6,8 +6,8 @@ const siteMetadata = {
     'Assorted writings and ramblings. Thoughts, resources, and essays about web3, product design, and more.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://mattgalligan.com',
-  siteRepo: 'https://github.com/galligan/web/',
+  siteUrl: 'https://galligan.xyz',
+  siteRepo: 'https://github.com/galligan/website/',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
