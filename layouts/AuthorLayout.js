@@ -13,9 +13,9 @@ export default function AuthorLayout({ children, frontMatter }) {
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="title">About me</h1>
         </div>
-        <div className="items-start xl:grid xl:grid-cols-2 xl:gap-x-8 xl:space-y-0">
-          <div className="flex flex-row space-x-6 space-x-reverse">
-            <div className="order-last flex-none items-center pt-8">
+        <div className="items-start xl:gap-x-8 xl:space-y-0">
+          <div className="flex flex-col space-x-6 space-x-reverse sm:flex-row">
+            <div className="flex-none items-center pt-8 sm:order-last">
               <Image
                 src={avatar}
                 alt="avatar"
