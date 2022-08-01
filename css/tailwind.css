@@ -114,9 +114,13 @@ h3.title {
   @apply ml-0;
 }
 
+.prose li > ul {
+  @apply mt-0;
+}
+
 .prose ul li,
 .prose ol li {
-  @apply pl-1 leading-5 marker:text-gray-800 dark:marker:text-gray-200;
+  @apply pl-1 leading-6 marker:text-gray-800 dark:marker:text-gray-200;
 }
 
 ul.contains-task-list {
