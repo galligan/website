@@ -1,6 +1,6 @@
 ---
-title: A decentralized method for proving ownership and control of social accounts
-date: '2022-07-30'
+title: 'A decentralized method for proving ownership and control of social accounts'
+date: '2022-08-02'
 tags: ['crypto', 'web3', 'ideas']
 draft: false
 images: ['/static/images/ens-proof-of-control/github-claim.png']
@@ -214,10 +214,10 @@ Head to the Details section within the ENS app. Here you'll find the list of cur
 
 Since DAuth is an entirely new concept, like DMARC we are going to take advantage of the flexibility of the TXT record to add the proofs into ENS. To do this we will click on the `add record` affordance and set up a new record that looks like one of the following:
 
-| Record | Key | Value |
-| ------ | ------------------- | -------------------------------------------00---------------------- |
-| TXT | `com.twitter.proof` | <https://twitter.com/mg/status/1526323515149910018> |
-| TXT | `com.github.proof` | <https://gist.github.com/galligan/4e2c1fbad609a82834fa57127b134ee6> |
+| Record | Key                 | Value                                                             |
+| ------ | ------------------- | ----------------------------------------------------------------- |
+| TXT    | `com.twitter.proof` | https://twitter.com/mg/status/1526323515149910018                 |
+| TXT    | `com.github.proof`  | https://gist.github.com/galligan/4e2c1fbad609a82834fa57127b134ee6 |
 
 By adding these records, we have now established a direct link between the ENS domain (`galligan.eth`), the Ethereum account currently set as its controller (`0x3B…eE1C`), and the various proofs (`mg` on Twitter, and `galligan` on GitHub).
 
