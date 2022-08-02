@@ -1,37 +1,19 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Blog or website issue
+about: Find a problem with a blog post? An error on the site? Let me know!
 title: ''
 labels: bug
 assignees: ''
-
 ---
 
-**Describe the bug**
+## What's the affected URL?
+
+e.g. https://galligan.xyz/about
+
+## What's the issue?
+
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Recommended fix
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**System Info (if dev / build issue):**
- - OS: [e.g. iOS]
- - Node version (please ensure you are using 14+)
- - Npm version
-
-**Browser Info (if display / formatting issue):**
-- Device [e.g. Desktop, iPhone6]
-- Browser [e.g. chrome, safari]
-- Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Please leave a detailed if you've got one!
