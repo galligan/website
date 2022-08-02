@@ -1,8 +1,9 @@
 ---
-title: A decentralized method for proving ownership and control of social accounts
-date: '2022-07-30'
+title: 'A decentralized method for proving ownership and control of social accounts'
+date: '2022-08-02'
 tags: ['crypto', 'web3', 'ideas']
 draft: false
+images: ['/static/images/ens-proof-of-control/github-claim.png']
 summary: Using off-the-shelf solutions to self-verify and prove ownership and control over social media handles and URLs.
 ---
 
@@ -121,7 +122,7 @@ In the above example, I use lowercase for all characters as otherwise when we go
 
 As another example, here is my **Twitter** claim data:
 
-```
+```json
 {
   "domain": "galligan.xyz",
   "controller": "0x3b29ad23f65b5dc3846e6a8cc38f2139fbf6ee1c",
