@@ -44,5 +44,8 @@
       "source": "/bluesky",
       "destination": "https://bsky.app/profile/galligan.xyz"
     }
-  ]
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
