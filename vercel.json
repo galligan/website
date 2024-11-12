@@ -39,6 +39,10 @@
     {
       "source": "/there-s-a-chat-for-that--apple-s-biggest-platform-opportunity-yet",
       "destination": "https://mg.medium.com/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857"
+    },
+    {
+      "source": "/bluesky",
+      "destination": "https://bsky.app/profile/galligan.xyz"
     }
   ]
 }
