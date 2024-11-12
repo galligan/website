@@ -40,10 +40,18 @@ export default function Home({ posts }) {
             <span className="after:content-['_']">, or find me on</span>
             <Link
               rel="me"
-              className="font-semibold text-sky-500 underline hover:text-sky-300 dark:text-sky-400 dark:hover:text-sky-200"
-              href="https://twitter.com/mg"
+              className="font-semibold text-blue-500 underline hover:text-blue-300 dark:text-blue-400 dark:hover:text-blue-200"
+              href="https://bsky.app/profile/galligan.xyz"
             >
-              Twitter
+              Bluesky
+            </Link>
+            <span className="after:content-['_']">, </span>
+            <Link
+              rel="me"
+              className="font-semibold text-gray-900 underline hover:text-gray-700 dark:text-gray-700 dark:hover:text-gray-500"
+              href="https://threads.net/@mg"
+            >
+              Threads
             </Link>
             <span className="after:content-['_']">, </span>
             <Link
