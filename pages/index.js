@@ -53,14 +53,6 @@ export default function Home({ posts }) {
             >
               GitHub
             </Link>
-            <span className="after:content-['_']">, </span>
-            <Link
-              rel="me"
-              className="font-semibold text-red-500 underline hover:text-red-300 dark:text-red-400 dark:hover:text-red-300"
-              href="https://reddit.com/u/mg0716"
-            >
-              Reddit
-            </Link>
             <span className="after:content-['_']">, and </span>
             <Link
               rel="me"
